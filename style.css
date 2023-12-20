@@ -53,7 +53,7 @@ main .banner-text p {
 .card-area .post-card .img-area img {
     width: 330px;
     height: 280px;
-    object-fit: contain;
+    object-fit: cover;
 }
 
 .post-card .text-area {
